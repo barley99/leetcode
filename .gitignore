@@ -9,3 +9,4 @@ metals.sbt
 .vscode
 *.class
 *.log
+adhoc*
